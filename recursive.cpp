@@ -38,7 +38,7 @@ int main()
         printf("%d回目time %lf[ms]\n",j+1,arr[j]);
         avg +=arr[j];
     }
-    †
+    
     printf("平均:%f",avg/10);
     return 0;
 }
